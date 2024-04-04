@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hammadsohail
 - 👀 I’m interested in Java Script
 - 🌱 I’m currently Next js
-- 💞️ I’m looking to collaborate on PHP
+- 💞️ I’m looking to collaborate on Go
 - 📫 How to reach me muhammadhammad848@gmail.com
 
 <!---
