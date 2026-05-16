@@ -21,7 +21,7 @@ I’m building a Shopify/Wix-style SaaS platform that helps small and medium bus
 
 ---
 
-##  Current & Recent Work
+##  Recent Work
 
 ###  WiserMachines — IoT & Real-Time Analytics
 Led software engineering for an industrial IoT analytics platform supporting **700+ devices**.
