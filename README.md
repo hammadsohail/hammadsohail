@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Muhammad Hammad Sohail
+# Hi, I’m Muhammad Hammad Sohail
 
 **Lead Software Engineer | Founder & CTO | Full-Stack, SaaS, Ecommerce, IoT & Real-Time Systems**
 
@@ -6,9 +6,9 @@ I build scalable SaaS platforms, ecommerce systems, real-time analytics pipeline
 
 ---
 
-## 🚀 What I’m Working On in 2026
+##  What I’m Working On in 2026
 
-### 🛒 Eekaam / CloudyLeap — SaaS Website Builder for SMBs
+###  Eekaam / CloudyLeap — SaaS Website Builder for SMBs
 I’m building a Shopify/Wix-style SaaS platform that helps small and medium businesses launch websites and online stores quickly.
 
 **Key areas:**
@@ -21,9 +21,9 @@ I’m building a Shopify/Wix-style SaaS platform that helps small and medium bus
 
 ---
 
-## 💼 Current & Recent Work
+##  Current & Recent Work
 
-### ⚙️ WiserMachines — IoT & Real-Time Analytics
+###  WiserMachines — IoT & Real-Time Analytics
 Led software engineering for an industrial IoT analytics platform supporting **700+ devices**.
 
 **Highlights:**
@@ -35,7 +35,7 @@ Led software engineering for an industrial IoT analytics platform supporting **7
 
 ---
 
-### 🛍️ MultiH — Ecommerce & CRM
+###  MultiH — Ecommerce & CRM
 Worked on a custom ecommerce and CRM platform for an herbal products business.
 
 **Highlights:**
@@ -46,7 +46,7 @@ Worked on a custom ecommerce and CRM platform for an herbal products business.
 
 ---
 
-### 🔗 CandidLeap — Form Connector App
+###  CandidLeap — Form Connector App
 Built a Webflow form automation and integration app.
 
 **Highlights:**
@@ -58,7 +58,7 @@ Built a Webflow form automation and integration app.
 
 ---
 
-### 🧠 CalmTalk — Mental Health SaaS
+###  CalmTalk — Mental Health SaaS
 Contributed to frontend and backend development for a mental health SaaS platform.
 
 **Highlights:**
@@ -69,7 +69,7 @@ Contributed to frontend and backend development for a mental health SaaS platfor
 
 ---
 
-### 💬 Amaka Studio — Custom Chat System
+###  Amaka Studio — Custom Chat System
 Built a real-time chat system for client collaboration.
 
 **Highlights:**
@@ -79,7 +79,7 @@ Built a real-time chat system for client collaboration.
 
 ---
 
-### ☁️ TCP SaaS — TechCelerant Platform
+###  TCP SaaS — TechCelerant Platform
 Worked on a hosting and subscription-based SaaS platform.
 
 **Highlights:**
@@ -90,7 +90,7 @@ Worked on a hosting and subscription-based SaaS platform.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -136,14 +136,14 @@ Worked on a hosting and subscription-based SaaS platform.
 
 ---
 
-## 📫 Reach Me
+##  Reach Me
 
 **Email:** [hammad@cloudyleap.com](mailto:hammad@cloudyleap.com)
 **Email:** [muhammadhammad848@gmail.com](mailto:muhammadhammad848@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Hammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadsohail&show_icons=true&theme=dark)
 
