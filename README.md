@@ -46,39 +46,6 @@ Worked on a custom ecommerce and CRM platform for an herbal products business.
 
 ---
 
-###  CandidLeap — Form Connector App
-Built a Webflow form automation and integration app.
-
-**Highlights:**
-- Developed form management and automation features
-- Implemented scalable payment flows
-- Added passwordless login using magic links
-- Built webhook-based customer integrations
-- Improved platform reliability and error handling
-
----
-
-###  CalmTalk — Mental Health SaaS
-Contributed to frontend and backend development for a mental health SaaS platform.
-
-**Highlights:**
-- Built frontend features using **Next.js**
-- Developed APIs with **Node.js and Strapi**
-- Worked with **GraphQL**
-- Improved website architecture and feature delivery
-
----
-
-###  Amaka Studio — Custom Chat System
-Built a real-time chat system for client collaboration.
-
-**Highlights:**
-- Used **NestJS and Socket.IO**
-- Designed multi-tenant workspace separation
-- Built scalable real-time messaging features
-
----
-
 ###  TCP SaaS — TechCelerant Platform
 Worked on a hosting and subscription-based SaaS platform.
 
