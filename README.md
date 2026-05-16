@@ -143,11 +143,6 @@ Worked on a hosting and subscription-based SaaS platform.
 
 ---
 
-##  GitHub Stats
-
-![Hammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadsohail&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadsohail&layout=compact&theme=dark)
 
 ---
 
